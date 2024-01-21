@@ -1,0 +1,15 @@
+# # Jobs
+- company: Microsoft, Bangalore
+  position: Software Engineer
+  duration: Aug 2022 &mdash; Present
+  summary: March 2023 to Present - Microsoft Graph Data Connect.<br> Currently working on MGDC where tenants(enterprises) can withdraw their M365/AAD/On-Prem data of entire orgs/some users using several datasets provided in ADF pipeline. <ul class="resume-item-list"><li>On-boarded several different types of complex datasets as per customer requirements and met tight deadlines for data deliverance.</li> <li>Optimized the core extraction platform, using multi-threading concepts in C#, to reduce the time of data extraction for huge tenants,from several days to just a few minutes.</li><li>Worked on automation tools for dataset on-boarding using LLM's to generate the necessary files. Created chat-bots to help ease the process of onboarding api's as a support assistant.</li> <li>Responsible for handling the MGDC public documentation.</li></ul>Aug 2022 to March 2023 - WorkPlace Analytics <ul class="resume-item-list"><li>Worked in the WPA-SI Data Engineering team as a big data platform engineer building platforms to efficiently cater to the data scientists.</li><li>Worked on projects like optimization of latency of data flow; creation, management and deprecation of the data flow pipelines using Azure Data Factory ; privacy scrubbing and data management of huge amounts of enterprise data using Apache Spark and Hadoop clusters.</li></ul>
+
+- company: Rephrase.ai, Bangalore
+  position: Software Engineering Intern
+  duration: June 2022 &mdash; Aug 2022
+  summary: <ul class="resume-item-list"><li>Worked on project “optimization of big file streaming to reduce the latency of downloads” in Python-Django and GraphQL , HTTP Rest streaming api's.</li><li>Profiled the latency gaps and demonstrated the bottlenecks of the existing frameworks which were caused due to graphQL.</li> <li>Optimized the file streaming and download speed by a factor of 100x from a few seconds to a couple of milliseconds.</li> </ul>
+
+- company: Microsoft, Bangalore
+  position: Software Engineering Intern
+  duration: Jun 2021 &mdash; Aug 2021
+  summary: <ul class="resume-item-list"><li>Worked at Azure-Stack Edge team in C# to optimize the current systems inter-services communication.</li> <li>Implemented and compared the difference between technologies like gRPC and REST to establish a secure inter-role communication between several micro-services.</li> <li>Optimized the efficiency by 10X reducing the latency of communications between the several different micro-services.</li></ul>

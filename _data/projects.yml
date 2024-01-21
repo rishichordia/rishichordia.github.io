@@ -1,0 +1,39 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# jazznotes.io
+- project: No-SQL based Distributed Database System (B.Tech Project)
+  role: Under the guidance of Prof. Rajdeep Niyogi
+  duration: July 2021 &mdash; May 2022
+  url: ""
+  description: <ul class="resume-item-list"><li>Built a No-SQL-based key-value distributed database from scratch in Go language that is highly available and eventually consistent.</li><li>Implemented RAFT consensus algorithm to achieve distributed consensus.</li><li>Tested the database on various failure scenarios and bench-marked the database on 1000 writes/second.</li></ul>
+
+- project: Analysis and Reverse-engineering of Selected Hardware components in Modern Systems and their Security Implications
+  role: CSN300 &mdash; Lab Based Project, Under Prof. Sateesh Kumar Peddoju
+  duration: Spring 2021
+  url: "https://github.com/rishichordia/hw-reverse"
+  description: <ul class="resume-item-list"><li>Demonstrated reverse engg. of CPU cache size and associativity to understand the micro-architectural effects which can cause security vulnerabilities.</li><li>Demonstrated covert channel attack using LLC cache and flush-restore model.</li><li>Demonstrated the spectre attack using a cache side channel and speculative execution.</li></ul>
+
+- project: OS
+  role: ACM Student Chapter, IIT Roorkee
+  duration: Fall 2020
+  url: "https://github.com/rishichordia/OS"
+  description: <ul class="resume-item-list"><li>Built an linux kernel from scratch for x86 assembly architecture.</li><li>Built a custom boot-loader that boots into the 16-bit real mode and then switches into the 32-bit protected mode. Implemented a FAT12 file system to store and load the kernel.</li><li>Built interrupt handlers and virtual memory management systems in the kernel and wrote a simple shell program.</li></ul>
+
+- project: In-Memory Cache
+  role: ACM Student Chapter, IIT Roorkee
+  duration: Spring 2022
+  url: "https://github.com/rishichordia/InMemory_Caching_Techniques"
+  description: <ul class="resume-item-list"><li>Developed a thread-safe in-memory caching library in C++ ,using template programming, that is easy to use in any program.</li><li>Implemented several different eviction policies (like LRU,FIFO,LIFO,etc) that can be easily and added functionality to add new eviction policies very easily.</li></ul>
+
+- project: POS Tagger
+  role: Artificial Intelligence
+  duration: Fall 2020
+  url: "https://github.com/rishichordia/POS-Tagging"
+  description: <ul class="resume-item-list"><li>Created a Part-of-Speech tag predictor for english language using the concept of Hidden Markov Model.</li><li>Implemented the viterbi algorithm on a bigram model to find the most probable sequence of hidden tags.</li><li> Additionally implemented a trigram model that looks at 2 previous words to determine the most probable sequence.</li></ul>
+
+- project: Community Financing DApp - Blockchain,
+  role: ACM Student Chapter, IIT Roorkee
+  duration: Spring 2020
+  url: "https://github.com/rishichordia/Community-Financing"
+  description: <ul class="resume-item-list"><li>A decentralized web application for financing a community or a social cause by group of people using Blockchain and Ethereum technology involving no third parties.</li><li>The application uses concepts of Ethereum blockchain using solidity contracts and simple front-end.</li><li>Anyone can raise funds as well as donate to a particular Fund through a secure peer to peer network</li></ul>
